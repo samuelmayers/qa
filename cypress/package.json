@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/samuelmayers/qa/issues"
   },
-  "homepage": "https://github.com/samuelmayers/qa#readme"
+  "homepage": "https://github.com/samuelmayers/qa#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
 }
